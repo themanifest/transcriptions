@@ -1,4 +1,5 @@
-# Episode 1 - Homebrew with Mike McQuaid
+Episode 1 - Homebrew with Mike McQuaid - https://manifest.fm/1
+--------------------------------------------------------------
 
 Alex Pounds:        Welcome to The Manifest, a podcast all about package management. I'm Alex Pounds.
 
