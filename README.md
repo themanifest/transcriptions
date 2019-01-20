@@ -6,6 +6,7 @@ Transcriptions for episodes of [The Manifest](https://manifest.fm) podcast
 
 1. [Homebrew with Mike McQuaid](episode-1.md)
 2. [CocoaPods with Orta Therox](episode-2.md)
+2. [Rubygems with André Arko](episode-3.md)
 
 ## Contributing
 
