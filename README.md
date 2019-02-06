@@ -7,6 +7,7 @@ Transcriptions for episodes of [The Manifest](https://manifest.fm) podcast
 1. [Homebrew with Mike McQuaid](episode-1.md)
 2. [CocoaPods with Orta Therox](episode-2.md)
 3. [Rubygems with André Arko](episode-3.md)
+4. [Go dep with Sam Boyer](episode-04.md)
 11. [Spack with Todd Gamblin](episode-11.md)
 
 ## Contributing
