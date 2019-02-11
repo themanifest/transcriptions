@@ -8,6 +8,7 @@ Transcriptions for episodes of [The Manifest](https://manifest.fm) podcast
 2. [CocoaPods with Orta Therox](episode-02.md)
 3. [Rubygems with André Arko](episode-03.md)
 4. [Go dep with Sam Boyer](episode-04.md)
+5. [Pub with Natalie Weizenbaum](episode-05.md)
 11. [Spack with Todd Gamblin](episode-11.md)
 
 ## Contributing
