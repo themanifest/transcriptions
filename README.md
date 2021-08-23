@@ -11,6 +11,7 @@ Transcriptions for episodes of [The Manifest](https://manifest.fm) podcast
 5. [Pub with Natalie Weizenbaum](episode-05.md)
 6. [Maven with Brian Fox](episode-06.md)
 11. [Spack with Todd Gamblin](episode-11.md)
+16. [Episode 16: Conda Forge, Mamba, and Packaging Con with Wolf Vollprecht](episode-16.md)
 
 ## Contributing
 
